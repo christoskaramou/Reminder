@@ -1,0 +1,9 @@
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Reminder\Reminder\bin\Release\Reminder.exe.config
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Reminder\Reminder\bin\Release\Reminder.exe
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Reminder\Reminder\bin\Release\Reminder.pdb
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Reminder\Reminder\obj\Release\Reminder.csprojResolveAssemblyReference.cache
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Reminder\Reminder\obj\Release\Reminder.Form1.resources
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Reminder\Reminder\obj\Release\Reminder.Properties.Resources.resources
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Reminder\Reminder\obj\Release\Reminder.csproj.GenerateResource.Cache
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Reminder\Reminder\obj\Release\Reminder.exe
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Reminder\Reminder\obj\Release\Reminder.pdb
